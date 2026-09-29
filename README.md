@@ -15,4 +15,4 @@ This project is a simple personal Curriculum Vitae (CV) webpage created using HT
 - HTML5
 - CSS3
 - Visual Studio Code
-- GitHub
+- GitHub# cabillo_cv
